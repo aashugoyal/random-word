@@ -7,11 +7,3 @@ print(y)#here
 # hahahahahahahahaha
 =======
 print(y)#here
-
-
-
-'''
-doc string 
-
-'''
->>>>>>> branchEdit
