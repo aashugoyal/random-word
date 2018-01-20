@@ -5,4 +5,3 @@ random.shuffle(a)
 y=a.pop() 
 # value of a is store in y
 print(y)
-print(y)
