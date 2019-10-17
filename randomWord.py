@@ -5,3 +5,8 @@ random.shuffle(a)
 z=a.pop() 
 # value of a is store in y
 print(z)
+random.shuffle(a)#here we have random shuffle form string
+y=a.pop() # value of a is store in y
+print(y)#here 
+print(y)#here
+
