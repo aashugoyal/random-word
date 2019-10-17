@@ -2,6 +2,6 @@ import random
 a = 'a b c d e f g h i j k l'.split()
 random.shuffle(a)
 #here we have random shuffle form string
-y=a.pop() 
+z=a.pop() 
 # value of a is store in y
-print(y)
+print(z)
